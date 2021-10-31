@@ -1,0 +1,12 @@
+*.o
+*.err
+*.out
+*.inp
+*.mod
+*.sh
+*.h5
+*.txt
+gif
+fig
+Makefile
+fdtd
